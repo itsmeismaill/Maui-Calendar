@@ -1,8 +1,5 @@
 # Project Report: Calendar Maui Application
 
-## 1. Introduction:
-The Calendar Maui application is a modern cross-platform solution designed for efficient event management with robust authentication capabilities. Developed using Microsoft's .NET MAUI framework, the application aims to provide users with a seamless experience across various devices including iOS, Android, macOS, and Windows.
-
 ## Table of Contents
 1. [Introduction](#1-introduction)
 2. [Objectives](#2-objectives)
@@ -15,6 +12,10 @@ The Calendar Maui application is a modern cross-platform solution designed for e
 6. [Conclusion](#6-conclusion)
 7. [Acknowledgments](#7-acknowledgments)
 8. [Screenshots](#8-screenshots)
+
+
+## 1. Introduction:
+The Calendar Maui application is a modern cross-platform solution designed for efficient event management with robust authentication capabilities. Developed using Microsoft's .NET MAUI framework, the application aims to provide users with a seamless experience across various devices including iOS, Android, macOS, and Windows.
 
 ## 2. Objectives:
 The primary objectives of the Calendar Maui application are as follows:
