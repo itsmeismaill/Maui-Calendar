@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:scheduler="clr-namespace:Syncfusion.Maui.Scheduler;assembly=Syncfusion.Maui.Scheduler"
+             x:Class="Calendrier.ModalPage">
+
+    <ContentPage.Resources>
+        <Style TargetType="Button" x:Key="BlueButtonStyle">
+            <Setter Property="BackgroundColor" Value="Red" />
+            <Setter Property="TextColor" Value="White" />
+        </Style>
+    </ContentPage.Resources>
+
+    <StackLayout Padding="20" HorizontalOptions="Center">
+        <Label Text="Select Start Date and Time:" />
+        <DatePicker x:Name="startDatePicker" Margin="0,5,0,5" />
+        <TimePicker x:Name="startTimePicker" Margin="0,0,0,10" />
+
+        <Label Text="Select End Date and Time:" Margin="0,20,0,0" />
+        <DatePicker x:Name="endDatePicker" Margin="0,5,0,5" />
+        <TimePicker x:Name="endTimePicker" Margin="0,0,0,10" />
+
+        <Label Text="Event Subject:" Margin="0,20,0,0" />
+        <Entry x:Name="subjectEntry" Placeholder="Enter subject..." Margin="0,5,0,20" />
+
+        <Button Text="Add Event" Clicked="AddEvent_Clicked" Style="{StaticResource BlueButtonStyle}" Margin="0,20,0,0" />
+    </StackLayout>
+
+</ContentPage>
