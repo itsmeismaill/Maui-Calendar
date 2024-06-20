@@ -3,6 +3,19 @@
 ## 1. Introduction:
 The Calendar Maui application is a modern cross-platform solution designed for efficient event management with robust authentication capabilities. Developed using Microsoft's .NET MAUI framework, the application aims to provide users with a seamless experience across various devices including iOS, Android, macOS, and Windows.
 
+## Table of Contents
+1. [Introduction](#1-introduction)
+2. [Objectives](#2-objectives)
+3. [Features Implemented](#3-features-implemented)
+    - [Authentication System](#authentication-system)
+    - [Event Management](#event-management)
+    - [Cross-Platform Development](#cross-platform-development)
+4. [Technologies Used](#4-technologies-used)
+5. [Future Enhancements](#5-future-enhancements)
+6. [Conclusion](#6-conclusion)
+7. [Acknowledgments](#7-acknowledgments)
+8. [Screenshots](#8-screenshots)
+
 ## 2. Objectives:
 The primary objectives of the Calendar Maui application are as follows:
 
@@ -39,7 +52,7 @@ In conclusion, the Calendar Maui application represents a comprehensive solution
 ## 7. Acknowledgments:
 - The project extends gratitude to Microsoft for its extensive support and documentation resources related to .NET MAUI development.
 - Special acknowledgment is also extended to Syncfusion for their contributions in enhancing the application's UI/UX through advanced MAUI controls and components.
-## 9. Screenshots:
+## 8. Screenshots:
 ![WhatsApp Image 2024-06-20 at 20 14 03_b360b74b](https://github.com/itsmeismaill/Maui-Calendar/assets/114484969/4abbc320-3ad0-4b2f-a95f-595af0ac95f5)
 ![WhatsApp Image 2024-06-20 at 20 09 22_909ff0e2](https://github.com/itsmeismaill/Maui-Calendar/assets/114484969/372b4097-fb84-4c11-a8a8-534d044b3b91)
 ![WhatsApp Image 2024-06-20 at 20 03 06_858a14b4](https://github.com/itsmeismaill/Maui-Calendar/assets/114484969/8a80298c-a9dc-4e3f-9c80-94496cfb1763)
